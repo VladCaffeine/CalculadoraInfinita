@@ -1,0 +1,15 @@
+C:\Users\VLAD\Documents\VLAD\Programação\C#\CalculatorCmd\CalculadoraCMD\CalculadoraCMD\bin\Debug\net7.0\CalculadoraCMD.exe
+C:\Users\VLAD\Documents\VLAD\Programação\C#\CalculatorCmd\CalculadoraCMD\CalculadoraCMD\bin\Debug\net7.0\CalculadoraCMD.deps.json
+C:\Users\VLAD\Documents\VLAD\Programação\C#\CalculatorCmd\CalculadoraCMD\CalculadoraCMD\bin\Debug\net7.0\CalculadoraCMD.runtimeconfig.json
+C:\Users\VLAD\Documents\VLAD\Programação\C#\CalculatorCmd\CalculadoraCMD\CalculadoraCMD\bin\Debug\net7.0\CalculadoraCMD.dll
+C:\Users\VLAD\Documents\VLAD\Programação\C#\CalculatorCmd\CalculadoraCMD\CalculadoraCMD\bin\Debug\net7.0\CalculadoraCMD.pdb
+C:\Users\VLAD\Documents\VLAD\Programação\C#\CalculatorCmd\CalculadoraCMD\CalculadoraCMD\obj\Debug\net7.0\CalculadoraCMD.csproj.AssemblyReference.cache
+C:\Users\VLAD\Documents\VLAD\Programação\C#\CalculatorCmd\CalculadoraCMD\CalculadoraCMD\obj\Debug\net7.0\CalculadoraCMD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VLAD\Documents\VLAD\Programação\C#\CalculatorCmd\CalculadoraCMD\CalculadoraCMD\obj\Debug\net7.0\CalculadoraCMD.AssemblyInfoInputs.cache
+C:\Users\VLAD\Documents\VLAD\Programação\C#\CalculatorCmd\CalculadoraCMD\CalculadoraCMD\obj\Debug\net7.0\CalculadoraCMD.AssemblyInfo.cs
+C:\Users\VLAD\Documents\VLAD\Programação\C#\CalculatorCmd\CalculadoraCMD\CalculadoraCMD\obj\Debug\net7.0\CalculadoraCMD.csproj.CoreCompileInputs.cache
+C:\Users\VLAD\Documents\VLAD\Programação\C#\CalculatorCmd\CalculadoraCMD\CalculadoraCMD\obj\Debug\net7.0\CalculadoraCMD.dll
+C:\Users\VLAD\Documents\VLAD\Programação\C#\CalculatorCmd\CalculadoraCMD\CalculadoraCMD\obj\Debug\net7.0\refint\CalculadoraCMD.dll
+C:\Users\VLAD\Documents\VLAD\Programação\C#\CalculatorCmd\CalculadoraCMD\CalculadoraCMD\obj\Debug\net7.0\CalculadoraCMD.pdb
+C:\Users\VLAD\Documents\VLAD\Programação\C#\CalculatorCmd\CalculadoraCMD\CalculadoraCMD\obj\Debug\net7.0\CalculadoraCMD.genruntimeconfig.cache
+C:\Users\VLAD\Documents\VLAD\Programação\C#\CalculatorCmd\CalculadoraCMD\CalculadoraCMD\obj\Debug\net7.0\ref\CalculadoraCMD.dll
